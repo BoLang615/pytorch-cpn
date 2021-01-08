@@ -24,7 +24,7 @@ from utils.osutils import mkdir_p, isfile, isdir, join
 from utils.transforms import fliplr, flip_back
 from utils.imutils import im_to_numpy, im_to_torch
 from networks import network 
-from dataloader.mscocoMulti1 import MscocoMulti
+from dataloader.mscocoMulti_mc import MscocoMulti
 from tqdm import tqdm
 
 def main(args):
