@@ -11,3 +11,5 @@ data
 │   └── chair_sofa_val
 └── README.md
 ```
+Dataset in our project is Keypoint-5. 
+Do preprocess the Anno file to specific .json format for cpn.
