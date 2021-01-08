@@ -12,4 +12,4 @@ data
 └── README.md
 ```
 Dataset in our project is Keypoint-5. 
-Do preprocess the Anno file to specific .json format for cpn.
+Do preprocess the Anno file of .mat to specific .json format for our cpn. Json examples could be find in annotation folder.
