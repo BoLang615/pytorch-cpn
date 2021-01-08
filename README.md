@@ -1,3 +1,3 @@
 # pytorch-cpn
 
-cascaded pyramid network for multi-classed keypoints detection
+cascaded pyramid network for multi-classes keypoints detection
